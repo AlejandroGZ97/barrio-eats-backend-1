@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "barrio-eats",
+  "private_key_id": "632bf1eae5df823af9635c69708debb5d29f895f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQtmmzLqnQMxj9\n0cKLooKu7rXyrZv47qPwlgXItmvG2FsfcUnO1l+ZYePAgiULWtOcvS9N/9BPmZpe\n5DA8UYb4QjeCzeCxz4awwDI6XfJ9tamrDu6ATXI02ivZgtsBlEupG0hKc4jMqJsp\n/6IBfuwtzlpOcVw8DhszkbiMhBtUbZP9g5njtJOoqwjXl9SqaSwfa5e0L1vWi7LL\nG5UxeL9cqpogh0tsdvHwejr1VQ67v9zzJJN8Non9TrdaP0KyHObj9z+JbfY1qKd7\nAFYqppVYXkuZbSFHsKwMQ6DInEh6+jd+FPHp/QjUmdK5uACJVpk7512Ba70z7KpW\nMDRD4i2zAgMBAAECggEAHEV+3fIyW8n3ynKl6si7djiNlFUlgRsCLTjp9V3qLWVM\nXBayYDXSZHFS4OOsIA1FBTySls7w3/Q2y+4RnF8jGrI5DRVyndpYyoQp6+w5uSR5\n+sDGiItY0gmDgpGFfsf9hhKd62mp4q3X7nsSJ++nbYWAcA3GgrcQymDgKJeQjUw1\n0fVGBXvDLjy7nrYROpOvc0mMbVLhsOFSDvJaVXx3kusD/2vqGj35gnZErhwMkBVG\nqXUsCQ3iQx3znEhPidLjqkZIXvqIyrvslZXi/g0hBt0gB2HXifynXzxM4ogwOYeU\nVYIYFNmM+Y35uLVC23aog5aZ8Kwbm9JrvWRyo3Il1QKBgQDJfKVWCC7r7BQCpGzt\nU7X6uItNkx31B1WWOY4uYjVV8w33cR9B2o485ozpuMA437PSNVsGjxz38DjFmOQS\nn0ti/OL/VgabVbKj9nfqUOOJ4o64JcItzdCKKIKMRXjs+oWaUtS8KSqcNrBk+YV8\n3zLIlubOXa+Yd5KnNUkACSL0ZQKBgQC33XiVUfGsIq8KXq6UMEMfgd5n4jLxL7Rr\nFO2eozgnVTnDoy52b+MDgjLV4gBnDBZN42kMCXGZoQfvAujsMHtUO38/pU3yTt3I\ntB7WrsLfjWa/LgJoozC7sJhCRenT+XdiywxurcO4yK5ejR8jaAwzsUlZQkQAL+jP\n2zVcrjg8NwKBgBu9hInuwH8M1shyWOjn8JMfW1aH3cUBiIARVoj+TneR6idaNMJ9\nU74Aw//dxuFNs1VKsUia5ZMhSL+zyBrkQZ3UUXB0KJ60Us8OPP5OurUeMyYZVL23\nq3GKGEc1vWtrJn/TzaRGSq6NPQX58K37kONbG1XoQifMtq08wds2ZtCdAoGBAKru\ng07WSoXMDMzoLwbnQ0/ETX5oZRGiVumCIFJtzSOL8NK3HtfOts6pORdsLxGdxBKP\nCza8hNbdROHn46DIha9OTMNfq3JL7ZXMFithdxubelzbqjObGxAyYaqjEnoVnu7C\ndAFlG+Lq9mhCbCNfdJCODfGkUFGYOKkcUqSh9vfLAoGBALOBv5aZvSAd6skOg1I/\n2uaH9uVZGHjtKVztJO995WOFXch5zsCGTOHM8hdkFC/GS6Cdh5PSOYz/yzav68v2\nY6YPqvcibIAfeWMNnCIstgaFLWBua87AdKT2K40JjjBAmr2J2l5RNK0lGFWdPZPm\nF+YXCzAsIpK58rUAprbIgbpq\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-y2ezv@barrio-eats.iam.gserviceaccount.com",
+  "client_id": "112456869890555497565",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-y2ezv%40barrio-eats.iam.gserviceaccount.com"
+}
